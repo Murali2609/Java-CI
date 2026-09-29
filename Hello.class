@@ -1,0 +1,8 @@
+ublic class Hello
+{
+    public static void main(string[] args)
+    {
+        system.out.println("Hello from DevOps lab!");
+        system.out.println("Jenkins CI is working successfully.");
+    }
+}
